@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "hotSpot"
+    },
+    {
+      "name": "refresh_text",
+      "value": "正在刷新"
+    },
+    {
+      "name": "internet",
+      "value": "访问网络"
+    },
+    {
+      "name": "location",
+      "value": "定位服务"
+    },
+    {
+      "name": "float_window",
+      "value": "悬浮窗"
+    }
+  ]
+}

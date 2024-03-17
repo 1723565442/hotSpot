@@ -1,0 +1,20 @@
+{
+  "src": [
+    "pages/HomePage",
+    "pages/WeatherPage",
+    "pages/LoginPage",
+    "pages/UserEditPage",
+    "pages/RegisterPage",
+    "pages/CityListPage",
+    "pages/NovelCategoryPage",
+    "pages/NovelRankPage",
+    "pages/NovelDetailPage",
+    "pages/WebPage",
+    "pages/VideoPlayPage",
+    "pages/BookshelfPage",
+    "pages/UserInfoPage",
+    "pages/SettingPage",
+    "pages/BeginnerPage",
+    "pages/GuidePage"
+  ]
+}

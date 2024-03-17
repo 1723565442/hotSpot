@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "hotSpot"
+    },
+    {
+      "name": "refresh_text",
+      "value": "refreshing"
+    },
+    {
+      "name": "internet",
+      "value": "internet"
+    },
+    {
+      "name": "location",
+      "value": "location"
+    },
+    {
+      "name": "float_window",
+      "value": "float_window"
+    }
+  ]
+}
